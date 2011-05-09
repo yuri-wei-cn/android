@@ -12,7 +12,7 @@
            fetch="git://github.com/tmobile" />
 
   <remote name="icarus" 
-	  fetch="git://github.com/isaacj87" />
+	  fetch="git://github.com/yuri-wei-cn" />
   <default revision="gingerbread"
            remote="korg" />
 
