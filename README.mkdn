@@ -10,7 +10,7 @@
 
 然后下载代码：
     $ cd ~/android/system/
-    $ repo init -u git://github.com/isaacj87/android.git -b gingerbread
+    $ repo init -u git://github.com/yuri-wei-cn/android.git -b gingerbread
     $ repo sync -j16
 
 
