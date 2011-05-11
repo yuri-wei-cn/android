@@ -34,6 +34,7 @@
   <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" remote="github" />
   <project path="device/geeksphone/zero" name="CyanogenMod/android_device_geeksphone_zero" remote="github" />
   <project path="device/huawei/ascend" name="android_device_huawei_ascend" remote="icarus" />
+  <project path="device/huawei/c8600" name="android_device_huawei_c8600" remote="icarus" />
   <project path="device/huawei/ideos" name="CyanogenMod/android_device_huawei_ideos" remote="github" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" remote="github" />
   <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" remote="github" />
